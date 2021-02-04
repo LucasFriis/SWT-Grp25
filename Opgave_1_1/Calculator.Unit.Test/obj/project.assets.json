@@ -4639,19 +4639,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Henry\\.nuget\\packages\\": {}
+    "C:\\Users\\Lucas\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Henry\\Documents\\IKT\\4. semester\\SWT\\Opgave_1_1\\Calculator.Unit.Test\\Calculator.Unit.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\GFV\\SWT-Grp25\\Opgave_1_1\\Calculator.Unit.Test\\Calculator.Unit.Test.csproj",
       "projectName": "Calculator.Unit.Test",
-      "projectPath": "C:\\Users\\Henry\\Documents\\IKT\\4. semester\\SWT\\Opgave_1_1\\Calculator.Unit.Test\\Calculator.Unit.Test.csproj",
-      "packagesPath": "C:\\Users\\Henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Henry\\Documents\\IKT\\4. semester\\SWT\\Opgave_1_1\\Calculator.Unit.Test\\obj\\",
+      "projectPath": "C:\\Users\\Lucas\\Desktop\\GFV\\SWT-Grp25\\Opgave_1_1\\Calculator.Unit.Test\\Calculator.Unit.Test.csproj",
+      "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lucas\\Desktop\\GFV\\SWT-Grp25\\Opgave_1_1\\Calculator.Unit.Test\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4665,8 +4669,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Henry\\Documents\\IKT\\4. semester\\SWT\\Opgave_1_1\\Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\Henry\\Documents\\IKT\\4. semester\\SWT\\Opgave_1_1\\Calculator\\Calculator.csproj"
+            "C:\\Users\\Lucas\\Desktop\\GFV\\SWT-Grp25\\Opgave_1_1\\Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\Lucas\\Desktop\\GFV\\SWT-Grp25\\Opgave_1_1\\Calculator\\Calculator.csproj"
             }
           }
         }

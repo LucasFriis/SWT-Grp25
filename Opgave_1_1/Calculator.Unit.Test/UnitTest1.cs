@@ -1,6 +1,6 @@
 using System.Runtime.InteropServices.ComTypes;
 using NUnit.Framework;
-
+//Henry kan du finde kommentaren? ^^'
 namespace Calculator.Unit.Test
 {
     [TestFixture]
